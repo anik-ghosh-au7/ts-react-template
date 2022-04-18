@@ -9,8 +9,6 @@
 		"airbnb-typescript",
 		"airbnb/hooks",
 		"prettier",
-		"plugin:prettier/recommended",
-		"prettier/standard",
 		"plugin:jest/recommended"
 	],
 	"env": {
