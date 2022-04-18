@@ -1,1 +1,1 @@
-declare module 'craco-less';
+declare module "craco-less";
